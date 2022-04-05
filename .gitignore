@@ -1,3 +1,7 @@
+# App Specific
+data.js
+package-lock.json
+
 # Logs
 logs
 *.log

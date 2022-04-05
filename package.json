@@ -1,0 +1,8 @@
+{
+  "name": "ssl-cert-checker",
+  "version": "1.0.0",
+  "description": "A lightweight package for checking expiry dates for SSL Certs.",
+  "main": "index.js",
+  "author": "dominic.sutton@djwd.co.uk",
+  "license": "MIT"
+}
